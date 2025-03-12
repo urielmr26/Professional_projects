@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf75f4e6-a9e9-44fd-a1d7-39067b62dea1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casa-kame-de-dragon-ball_1280x720_xtrafondos.com.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-1598488035139-bdbb2231ce04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/fonfo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/photo-1598488035139-bdbb2231ce04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nosotros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/photo-1598488035139-bdbb2231ce04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ustedes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gAjz60GvZEPI74ofxP1tO5LG16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "code.cleanup.on.save": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/RESPALDO-02 SEPT2024/LENOVO/DOCUMENTOS/A-Portafolio-Developer/01-bases/Tienda-Front-end",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo V310\Downloads\01-bases\01-bases\img" />
+      <recent name="C:\Users\Lenovo V310\Downloads\01-bases\01-bases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo V310\Downloads\01-bases\01-bases\images" />
+      <recent name="C:\Users\Lenovo V310\Downloads\01-bases\01-bases\scss" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf75f4e6-a9e9-44fd-a1d7-39067b62dea1" name="Changes" comment="" />
+      <created>1715147536310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715147536310</updated>
+      <workItem from="1715147537722" duration="4439000" />
+      <workItem from="1719883490362" duration="7425000" />
+      <workItem from="1720214094381" duration="5199000" />
+      <workItem from="1721246348486" duration="931000" />
+      <workItem from="1722374760128" duration="3472000" />
+      <workItem from="1722477801920" duration="10014000" />
+      <workItem from="1723068145721" duration="19064000" />
+      <workItem from="1739569662829" duration="6053000" />
+      <workItem from="1739667613314" duration="3410000" />
+      <workItem from="1739903199072" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
